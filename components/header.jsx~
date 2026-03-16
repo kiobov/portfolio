@@ -40,5 +40,5 @@ export function Header() {
                 <Image src={githubLogo} alt="GitHub logo" className="w-7" />
             </Link>
         </nav>
-    );
+    I);
 }
