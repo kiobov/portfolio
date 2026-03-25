@@ -46,10 +46,11 @@ export function Projects() {
                         margin: 0,
                         maxWidth: '560px',
                     }}>
-                        Good decisions don't come from gut feeling alone — they come from asking the right
-                        questions and having someone who knows how to find the answers. Whether it's revenue,
-                        retention, or growth, every challenge in your business has a data story behind it.
-                        Here's a look at some of those stories.
+                        Good decisions don't come from gut feeling alone they come from asking the right 
+                        questions and having someone who knows how to find the answers. 
+                        Whether it's revenue, retention, or growth, every challenge in your business 
+                        has a data story behind it. Here's a look at some of those stories.
+
                     </p>
                 </div>
 
