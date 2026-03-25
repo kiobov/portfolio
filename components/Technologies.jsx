@@ -31,7 +31,7 @@ export function Technologies() {
                 {[...tools, ...tools].map((tool, i) => (
                     <img
                         key={i}
-                        src={`/images/logosportfolio${tool}.svg`}
+                        src={`/images/logosportfolio/${tool}.svg`}
                         alt={tool}
                         width={52}
                         height={52}
