@@ -1,8 +1,8 @@
 export function Technologies() {
     const tools = [
-        'tableau', 'hadoop', 'pandas', 'python',
-        'cpp', 'scikitlearn', 'looker',
-        'aws', 'java', 'excel',
+        'logo_tableau', 'logo_hadoop', 'logo_pandas', 'logo_python',
+        'logo_cpp', 'logo_scikitlearn', 'logo_looker',
+        'logo_aws', 'logo_java', 'logo_excel',
     ];
 
     return (
@@ -22,7 +22,7 @@ export function Technologies() {
                 {tools.map((tool) => (
                     <img
                         key={tool}
-                        src={`/images/logo_${tool}.svg`}
+                        src={`/images/logosportfolio${tool}.svg`}
                         alt={tool}
                         width={52}
                         height={52}
