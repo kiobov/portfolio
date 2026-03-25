@@ -1,5 +1,5 @@
 import Link from 'next/link'
-export function Technologies() {
+export function Features() {
     const companies = [
         { src: '/images/edwins_limited.svg', alt: 'Edwins Limited', href: 'https://www.edwinslimited.com' },
         { src: '/images/kharis_logo.svg',    alt: 'Kharis',         href: 'https://www.kharis.com' },
