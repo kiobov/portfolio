@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <!-- AWS: cloud shape + arrow underneath -->
+  <!-- Cloud -->
+  <circle cx="44" cy="58" r="20" fill="#D4950A"/>
+  <circle cx="64" cy="48" r="24" fill="#D4950A"/>
+  <circle cx="84" cy="58" r="18" fill="#D4950A"/>
+  <rect x="26" y="58" width="76" height="22" fill="#D4950A"/>
+  <!-- Arrow pointing right-down (AWS style) -->
+  <path d="M 30,94 C 30,94 64,86 98,94" fill="none" stroke="#A06700" stroke-width="5" stroke-linecap="round"/>
+  <polygon points="92,88 104,94 92,100" fill="#A06700"/>
+  <!-- AWS text -->
+  <text x="64" y="68" font-family="'Arial Black',sans-serif" font-size="18" font-weight="900" fill="#7A4E00" text-anchor="middle" dominant-baseline="middle">AWS</text>
+</svg>

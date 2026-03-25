@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <!-- Java: classic coffee cup steam + cup -->
+  <!-- Steam lines -->
+  <path d="M 46,28 C 46,28 40,20 46,14 C 52,8 46,2 46,2" fill="none" stroke="#D4950A" stroke-width="4" stroke-linecap="round"/>
+  <path d="M 64,28 C 64,28 58,20 64,14 C 70,8 64,2 64,2" fill="none" stroke="#D4950A" stroke-width="4" stroke-linecap="round"/>
+  <path d="M 82,28 C 82,28 76,20 82,14 C 88,8 82,2 82,2" fill="none" stroke="#D4950A" stroke-width="4" stroke-linecap="round"/>
+  <!-- Cup body -->
+  <path d="M 28,38 L 34,90 C 34,96 42,102 64,102 C 86,102 94,96 94,90 L 100,38 Z" fill="#8B5A00"/>
+  <!-- Cup handle -->
+  <path d="M 94,52 C 112,52 112,76 94,76" fill="none" stroke="#A06700" stroke-width="7" stroke-linecap="round"/>
+  <!-- Saucer -->
+  <ellipse cx="64" cy="106" rx="44" ry="8" fill="#7A4E00"/>
+</svg>

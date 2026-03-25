@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <!-- Hadoop: elephant silhouette simplified -->
+  <!-- Body -->
+  <ellipse cx="60" cy="72" rx="36" ry="30" fill="#A06700"/>
+  <!-- Head -->
+  <circle cx="88" cy="48" r="22" fill="#A06700"/>
+  <!-- Trunk curling down -->
+  <path d="M 100,58 C 112,66 118,80 108,92 C 104,97 98,94 100,88" fill="none" stroke="#7A4E00" stroke-width="9" stroke-linecap="round"/>
+  <!-- Eye -->
+  <circle cx="94" cy="42" r="4" fill="#D4950A"/>
+  <!-- Ear -->
+  <ellipse cx="72" cy="40" rx="10" ry="14" fill="#8B5A00"/>
+  <!-- Legs -->
+  <rect x="32" y="94" width="12" height="22" rx="6" fill="#8B5A00"/>
+  <rect x="50" y="96" width="12" height="20" rx="6" fill="#8B5A00"/>
+  <rect x="68" y="96" width="12" height="20" rx="6" fill="#8B5A00"/>
+</svg>

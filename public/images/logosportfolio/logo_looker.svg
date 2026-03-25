@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <!-- Looker: eye/lens shape with pupil -->
+  <!-- Outer eye -->
+  <path d="M 10,64 C 10,64 34,22 64,22 C 94,22 118,64 118,64 C 118,64 94,106 64,106 C 34,106 10,64 10,64 Z" fill="none" stroke="#C17E00" stroke-width="6"/>
+  <!-- Iris -->
+  <circle cx="64" cy="64" r="24" fill="none" stroke="#A06700" stroke-width="5"/>
+  <!-- Pupil -->
+  <circle cx="64" cy="64" r="10" fill="#D4950A"/>
+  <!-- Shine dot -->
+  <circle cx="70" cy="58" r="4" fill="#C17E00"/>
+</svg>

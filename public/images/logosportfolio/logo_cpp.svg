@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <!-- C++ logo: C with two plus signs -->
+  <path d="
+    M 70,20
+    C 44,20 24,40 24,64
+    C 24,88 44,108 70,108
+    C 82,108 92,104 100,96
+    L 88,84
+    C 83,90 77,93 70,93
+    C 52,93 39,80 39,64
+    C 39,48 52,35 70,35
+    C 77,35 83,38 88,44
+    L 100,32
+    C 92,24 82,20 70,20 Z
+  " fill="#C17E00"/>
+  <!-- First + -->
+  <rect x="104" y="54" width="18" height="6" rx="3" fill="#A06700"/>
+  <rect x="110" y="48" width="6" height="18" rx="3" fill="#A06700"/>
+  <!-- Second + -->
+  <rect x="104" y="72" width="18" height="6" rx="3" fill="#A06700"/>
+  <rect x="110" y="66" width="6" height="18" rx="3" fill="#A06700"/>
+</svg>

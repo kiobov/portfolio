@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <!-- Excel: green X on document -->
+  <!-- Document base -->
+  <rect x="22" y="10" width="84" height="108" rx="6" fill="#8B5A00"/>
+  <!-- Folded corner -->
+  <path d="M 82,10 L 106,34 L 82,34 Z" fill="#7A4E00"/>
+  <!-- X mark -->
+  <line x1="38" y1="56" x2="72" y2="96" stroke="#D4950A" stroke-width="9" stroke-linecap="round"/>
+  <line x1="72" y1="56" x2="38" y2="96" stroke="#D4950A" stroke-width="9" stroke-linecap="round"/>
+</svg>
