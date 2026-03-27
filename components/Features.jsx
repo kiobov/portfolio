@@ -2,13 +2,13 @@ import Link from 'next/link'
 export function Features() {
     const companies = [
         { src: '/images/edwins_limited.svg', alt: 'Edwins Limited', href: 'https://www.edwinslimited.com' },
-        { src: '/images/kharis_logo.svg',    alt: 'Kharis',         href: 'https://www.kharis.com' },
+        { src: '/images/kharis_logo.svg',    alt: 'Kharis',         href: 'https://kharistherapy.com/' },
         { src: '/images/sama_logo.svg',      alt: 'Sama',           href: 'https://www.sama.com' },
     ];
 
     return (
         <section style={{
-            padding: '10px 0',
+            padding: '1px 0',
             backgroundColor: 'white',
             borderBottom: '1px solid #f0f0f0',
             overflow: 'hidden',        
