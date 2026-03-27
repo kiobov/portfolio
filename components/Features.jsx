@@ -31,21 +31,25 @@ export function Features() {
             <div className="logos-track">
                 
                 {[...companies, ...companies].map((c, i) => (
-                    <a
-                        key={i}
-                        href={c.href}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        style={{ margin: '0 3rem', flexShrink: 0 }}
-                    >
-                        <img
-                            src={c.src}
-                            alt={c.alt}
-                            height={50}
-                            style={{ objectFit: 'contain' }}
-                        />
-                    </a>
-                ))}
+    <a
+                key={i}
+                href={c.href}
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{ 
+                    margin: '0 3rem', 
+                    flexShrink: 0,
+                    display: 'flex',       
+                    alignItems: 'center'   
+                }}
+            >
+                <img
+                    src={c.src}
+                    alt={c.alt}
+                    style={{ height: '40px', width: 'auto', objectFit: 'contain' }} 
+                />
+            </a>
+        ))}
             </div>
         </section>
     );
