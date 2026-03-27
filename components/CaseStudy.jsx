@@ -1,10 +1,11 @@
 export function CaseStudy() {
     return (
         <section style={{
-            backgroundColor: 'white', 
-            paddingBottom: '4rem',    
-            borderBottomLeftRadius: '40px', 
-            borderBottomRightRadius: '40px',
+            // TRANSITION: Starts white and fades into the dark brown at the very bottom
+            background: 'linear-gradient(to bottom, #ffffff 60%, #8B5E02 100%)', 
+            paddingTop: '4rem',      
+            paddingBottom: '8rem',   
+            overflow: 'hidden',
         }}>
             <div style={{
                 maxWidth: '900px',
@@ -13,6 +14,7 @@ export function CaseStudy() {
                 alignItems: 'center',
                 gap: '2rem',
                 flexWrap: 'wrap',
+                padding: '0 2rem' 
             }}>
                 <a
                     href="https://github.com/kiobov"
